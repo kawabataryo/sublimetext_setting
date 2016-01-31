@@ -1,4 +1,8 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AutoFileName",
@@ -8,6 +12,7 @@
 		"Emmet",
 		"HTML5",
 		"jQuery",
+		"Package Control",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
